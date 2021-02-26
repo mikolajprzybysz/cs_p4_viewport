@@ -1,0 +1,12 @@
+D:\Workspace\VisualStudio\C#\Project\p4_viewport\p4_viewport\obj\Debug\ResolveAssemblyReference.cache
+D:\Workspace\VisualStudio\C#\Project\p4_viewport\p4_viewport\obj\Debug\Window1.baml
+D:\Workspace\VisualStudio\C#\Project\p4_viewport\p4_viewport\obj\Debug\Window1.g.cs
+D:\Workspace\VisualStudio\C#\Project\p4_viewport\p4_viewport\obj\Debug\App.g.cs
+D:\Workspace\VisualStudio\C#\Project\p4_viewport\p4_viewport\obj\Debug\p4_viewport_MarkupCompile.cache
+D:\Workspace\VisualStudio\C#\Project\p4_viewport\p4_viewport\obj\Debug\p4_viewport.g.resources
+D:\Workspace\VisualStudio\C#\Project\p4_viewport\p4_viewport\obj\Debug\p4_viewport.Properties.Resources.resources
+D:\Workspace\VisualStudio\C#\Project\p4_viewport\p4_viewport\obj\Debug\p4_viewport.csproj.GenerateResource.Cache
+D:\Workspace\VisualStudio\C#\Project\p4_viewport\p4_viewport\bin\Debug\p4_viewport.exe
+D:\Workspace\VisualStudio\C#\Project\p4_viewport\p4_viewport\bin\Debug\p4_viewport.pdb
+D:\Workspace\VisualStudio\C#\Project\p4_viewport\p4_viewport\obj\Debug\p4_viewport.exe
+D:\Workspace\VisualStudio\C#\Project\p4_viewport\p4_viewport\obj\Debug\p4_viewport.pdb
